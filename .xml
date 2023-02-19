@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "SongStyle.css" ?>
+<Songs>
+ <heading>Welcome To My SongList </heading>
+        <genre>Rap</genre>
+            <artist>Kanye West</artist>
+                <title>Good Morning</title>
+                    <year>2007</year>
+            <artist>Travis Scott</artist>
+                <title>lose</title>
+                    <year>2016</year>
+            <artist>Kendrink Lamar</artist>
+                <title>The Recipe</title>
+                    <year>2012</year>
+            <artist>MF DOOM </artist>
+                <title>Accordion</title>
+                    <year>2004</year>
+        <genre>RNB</genre>
+            <artist>Akon</artist>
+                <title>Right Now</title>
+                    <year>2008</year>
+            <artist>Ne-yo</artist>
+                <title>Miss Independent</title>
+                    <year>2008</year>
+            <artist>Jay Sean</artist>
+                <title>Down</title>
+                    <year>2009</year>
+        <genre>Rock</genre>
+            <artist>Tears For Fears</artist>
+                <title>Everybody Wants To Rule The World</title>
+                    <year>1985</year>
+            <artist>Michael Sembello</artist>
+                <title>Maniac</title>
+                    <year>1983</year>
+            <artist>Simple Minds</artist>
+                <title>Don't You(Forget About Me)</title>
+                    <year>1985</year>
+</Songs>
+
